@@ -1,2 +1,2 @@
-nginx
-kasmweb/jellyfin
+jellyfin
+nyanmisaka/jellyfin
